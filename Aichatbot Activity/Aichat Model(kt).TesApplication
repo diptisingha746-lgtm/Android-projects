@@ -1,0 +1,5 @@
+package com.example.TesApplication
+data class ChatModel(
+    val message: String,
+    val isuser: Boolean
+)
